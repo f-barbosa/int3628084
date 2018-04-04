@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="Test 1 Dashboard">af8c06cd37919700029994d543990e39</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>2</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>felipe.barbosa@snc</sys_created_by>
+        <sys_created_on>2018-04-04 14:32:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e3accacd37919700029994d543990e96</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>af8c06cd37919700029994d543990e39</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="int3628084" source="x_snc_int3628084">117b828d37919700029994d543990edd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="int3628084">117b828d37919700029994d543990edd</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_e3accacd37919700029994d543990e96</sys_update_name>
+        <sys_updated_by>felipe.barbosa@snc</sys_updated_by>
+        <sys_updated_on>2018-04-04 14:32:03</sys_updated_on>
+        <tab display_value="Incident">abaccacd37919700029994d543990e94</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2018-04-04 14:34:43">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>felipe.barbosa@snc</sys_created_by>
+        <sys_created_on>2018-04-04 14:32:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>abaccacd37919700029994d543990e92</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA Incident</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="int3628084" source="x_snc_int3628084">117b828d37919700029994d543990edd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="int3628084">117b828d37919700029994d543990edd</sys_scope>
+        <sys_update_name>sys_portal_page_abaccacd37919700029994d543990e92</sys_update_name>
+        <sys_updated_by>felipe.barbosa@snc</sys_updated_by>
+        <sys_updated_on>2018-04-04 14:32:42</sys_updated_on>
+        <title>PA Incident</title>
+        <user/>
+        <view>pa_new_tab_2_2</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Incident">abaccacd37919700029994d543990e92</page>
+                <summary>Basic indicators</summary>
+                <sys_created_by>felipe.barbosa@snc</sys_created_by>
+                <sys_created_on>2018-04-04 14:33:11</sys_created_on>
+                <sys_id>08fc8ecd37919700029994d543990ed7</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>felipe.barbosa@snc</sys_updated_by>
+                <sys_updated_on>2018-04-04 14:33:11</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab 2">63accacd37919700029994d543990e93</grid_canvas>
+                        <height>10</height>
+                        <portal_widget display_value="Created 2018-04-04 07:33:11">08fc8ecd37919700029994d543990ed7</portal_widget>
+                        <posx>0</posx>
+                        <posy>10</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>felipe.barbosa@snc</sys_created_by>
+                        <sys_created_on>2018-04-04 14:33:11</sys_created_on>
+                        <sys_id>14fc420137d19700029994d543990e97</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_name>63accacd37919700029994d543990e93</sys_name>
+                        <sys_package display_value="int3628084" source="x_snc_int3628084">117b828d37919700029994d543990edd</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="int3628084">117b828d37919700029994d543990edd</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_14fc420137d19700029994d543990e97</sys_update_name>
+                        <sys_updated_by>felipe.barbosa@snc</sys_updated_by>
+                        <sys_updated_on>2018-04-04 14:33:22</sys_updated_on>
+                        <width>12</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-04-04 07:33:11">08fc8ecd37919700029994d543990ed7</portal_section>
+                        <sys_created_by>felipe.barbosa@snc</sys_created_by>
+                        <sys_created_on>2018-04-04 14:33:11</sys_created_on>
+                        <sys_id>50fc420137d19700029994d543990e96</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>felipe.barbosa@snc</sys_updated_by>
+                        <sys_updated_on>2018-04-04 14:33:11</sys_updated_on>
+                        <value>Basic indicators</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2018-04-04 07:33:11">08fc8ecd37919700029994d543990ed7</portal_section>
+                        <sys_created_by>felipe.barbosa@snc</sys_created_by>
+                        <sys_created_on>2018-04-04 14:33:11</sys_created_on>
+                        <sys_id>5cfc420137d19700029994d543990e96</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>felipe.barbosa@snc</sys_updated_by>
+                        <sys_updated_on>2018-04-04 14:33:11</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-04-04 07:33:11">08fc8ecd37919700029994d543990ed7</portal_section>
+                        <sys_created_by>felipe.barbosa@snc</sys_created_by>
+                        <sys_created_on>2018-04-04 14:33:11</sys_created_on>
+                        <sys_id>9cfc420137d19700029994d543990e95</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>felipe.barbosa@snc</sys_updated_by>
+                        <sys_updated_on>2018-04-04 14:33:11</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-04-04 07:33:11">08fc8ecd37919700029994d543990ed7</portal_section>
+                        <sys_created_by>felipe.barbosa@snc</sys_created_by>
+                        <sys_created_on>2018-04-04 14:33:11</sys_created_on>
+                        <sys_id>d0fc8ecd37919700029994d543990ed8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>felipe.barbosa@snc</sys_updated_by>
+                        <sys_updated_on>2018-04-04 14:33:11</sys_updated_on>
+                        <value>6abd1361d7231100b96d45a3ce61036d</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-04-04 07:33:11">08fc8ecd37919700029994d543990ed7</portal_section>
+                        <sys_created_by>felipe.barbosa@snc</sys_created_by>
+                        <sys_created_on>2018-04-04 14:33:11</sys_created_on>
+                        <sys_id>d8fc420137d19700029994d543990e95</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>felipe.barbosa@snc</sys_updated_by>
+                        <sys_updated_on>2018-04-04 14:33:11</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Incident">abaccacd37919700029994d543990e92</page>
+                <summary>Open incident indicators</summary>
+                <sys_created_by>felipe.barbosa@snc</sys_created_by>
+                <sys_created_on>2018-04-04 14:33:22</sys_created_on>
+                <sys_id>3efc420137d19700029994d543990e9e</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>felipe.barbosa@snc</sys_updated_by>
+                <sys_updated_on>2018-04-04 14:33:22</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab 2">63accacd37919700029994d543990e93</grid_canvas>
+                        <height>10</height>
+                        <portal_widget display_value="Created 2018-04-04 07:33:22">3efc420137d19700029994d543990e9e</portal_widget>
+                        <posx>0</posx>
+                        <posy>0</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>felipe.barbosa@snc</sys_created_by>
+                        <sys_created_on>2018-04-04 14:33:22</sys_created_on>
+                        <sys_id>7afc420137d19700029994d543990eee</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_name>63accacd37919700029994d543990e93</sys_name>
+                        <sys_package display_value="int3628084" source="x_snc_int3628084">117b828d37919700029994d543990edd</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="int3628084">117b828d37919700029994d543990edd</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_7afc420137d19700029994d543990eee</sys_update_name>
+                        <sys_updated_by>felipe.barbosa@snc</sys_updated_by>
+                        <sys_updated_on>2018-04-04 14:33:22</sys_updated_on>
+                        <width>12</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-04-04 07:33:22">3efc420137d19700029994d543990e9e</portal_section>
+                        <sys_created_by>felipe.barbosa@snc</sys_created_by>
+                        <sys_created_on>2018-04-04 14:33:22</sys_created_on>
+                        <sys_id>32fc420137d19700029994d543990e9f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>felipe.barbosa@snc</sys_updated_by>
+                        <sys_updated_on>2018-04-04 14:33:22</sys_updated_on>
+                        <value>99958d31d7201100b96d45a3ce61033d</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-04-04 07:33:22">3efc420137d19700029994d543990e9e</portal_section>
+                        <sys_created_by>felipe.barbosa@snc</sys_created_by>
+                        <sys_created_on>2018-04-04 14:33:22</sys_created_on>
+                        <sys_id>7efc420137d19700029994d543990eed</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>felipe.barbosa@snc</sys_updated_by>
+                        <sys_updated_on>2018-04-04 14:33:22</sys_updated_on>
+                        <value>Open incident indicators</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-04-04 07:33:22">3efc420137d19700029994d543990e9e</portal_section>
+                        <sys_created_by>felipe.barbosa@snc</sys_created_by>
+                        <sys_created_on>2018-04-04 14:33:22</sys_created_on>
+                        <sys_id>bafc420137d19700029994d543990eed</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>felipe.barbosa@snc</sys_updated_by>
+                        <sys_updated_on>2018-04-04 14:33:22</sys_updated_on>
+                        <value>pa_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2018-04-04 07:33:22">3efc420137d19700029994d543990e9e</portal_section>
+                        <sys_created_by>felipe.barbosa@snc</sys_created_by>
+                        <sys_created_on>2018-04-04 14:33:22</sys_created_on>
+                        <sys_id>f2fc420137d19700029994d543990eee</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>felipe.barbosa@snc</sys_updated_by>
+                        <sys_updated_on>2018-04-04 14:33:22</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-04-04 07:33:22">3efc420137d19700029994d543990e9e</portal_section>
+                        <sys_created_by>felipe.barbosa@snc</sys_created_by>
+                        <sys_created_on>2018-04-04 14:33:22</sys_created_on>
+                        <sys_id>f6fc420137d19700029994d543990eed</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>felipe.barbosa@snc</sys_updated_by>
+                        <sys_updated_on>2018-04-04 14:33:22</sys_updated_on>
+                        <value>com.snc.pa.ui.RenderPerformanceAnalytics</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>
